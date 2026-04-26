@@ -22,5 +22,5 @@ Weather Diary — это простое GUI-приложение на Python, п
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-юзернейм/weather-diary.git
+   git clone https://github.com/tatarinmen/weather-diary.git
    cd weather-diary
